@@ -121,14 +121,6 @@ height="40"/>
 
 </p>
 
----
-
-## 🚀 Featured Project
-
-### 🔹 SignBridge
-Real-Time Sign Language Detection and Translation System using Flask, TensorFlow.js, MediaPipe, WebRTC, and PostgreSQL.
-
----
 
 ## 📊 GitHub Stats
 
