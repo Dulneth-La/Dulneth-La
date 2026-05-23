@@ -8,14 +8,21 @@ Computer Science Undergraduate | Cyber Security Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🔐 Computer Science undergraduate specializing in Cyber Security at Edith Cowan University
-- 🌱 Currently learning Network Security, Digital Forensics, and Cloud Security
-- 🛡️ Interested in Cyber Security, Network Engineering, and Ethical Hacking
-- ⚡ Experienced with Flask, PostgreSQL, TensorFlow, and Web Security
-- 💬 Ask me about **Cyber Security, Flask, PostgreSQL, Web Security, and Machine Learning**
-- 📫 Reach me at **dulnethlahiru320@gmail.com**
+* 🎓 Final-year undergraduate majoring in Cyber Security at Edith Cowan University.
+* 🛡️ Passionate about secure application development, network security, and low-level systems.
+* 💻 Currently showcasing my recent work, including my final year academic project.
+* 🚀 Focused on building robust, secure systems and always eager to tackle new cybersecurity challenges.
+* 📫 Reach me at **dulnethlahiru320@gmail.com**
 
 ---
+
+## 🛠️ Skills & Expertise
+
+* **Security Operations:** Familiarity with SOC environments, continuous monitoring, and proactive threat defense.
+* **Threat Detection & Analysis:** Identifying and mitigating sophisticated cyber threats to safeguard digital assets.
+* **Incident Response:** Preparedness for analyzing security events and minimizing operational impact.
+* **Network Security:** Securing network infrastructure and identifying vulnerabilities.
+* **Secure Development:** Applying secure coding principles to build robust and resilient applications.
 
 ## 🌐 Connect With Me
 
