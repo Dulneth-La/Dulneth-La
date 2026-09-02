@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dulneth Lahiru</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Cyber Security Enthusiast
+Computer Science graduate | Cyber Security Enthusiast
 </h3>
 
 ---
