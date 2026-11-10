@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E5A0,50:064e3b,100:09090b&height=260&section=header&text=DULNETH%20LAHIRU&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CYBER%20SECURITY%20%7C%20COMPUTER%20SCIENCE&descSize=18&descAlignY=60" width="100%" alt="Dulneth Lahiru" />
@@ -9,11 +8,11 @@
 
 <a href="https://www.linkedin.com/in/dulneth-lahiru"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dulnethlahiru320@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=dulneth-la&style=for-the-badge&color=00b386&label=PROFILE+VIEWS" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=Dulneth-La&style=for-the-badge&color=00b386&label=PROFILE+VIEWS" alt="Views" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:09090b&height=3&section=header" width="100%" alt="" />
+---
 
 ## 👨‍💻 `$ whoami`
 
@@ -45,7 +44,7 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:09090b&height=3&section=header" width="100%" alt="" />
+---
 
 ## 🧰 `$ technical_stack`
 
@@ -63,11 +62,22 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 
 **💻 Languages, Platforms & Tools**
 
-<img src="https://skillicons.dev/icons?i=py,bash,js,cs,postgres,flask,git,linux,kali,ubuntu,windows,vscode&theme=dark&perline=12" alt="Skills" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:09090b&height=3&section=header" width="100%" alt="" />
+---
 
 ## 🚀 `$ featured_projects`
 
@@ -99,20 +109,25 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 - 📡 Network reconnaissance and traffic analysis
 - 🐧 Linux security and system hardening
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:09090b&height=3&section=header" width="100%" alt="" />
+---
 
 ## 📊 `$ github_statistics`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dulneth-la&show_icons=true&theme=transparent&hide_border=true&title_color=00E5A0&icon_color=00E5A0&text_color=9CA3AF&rank_icon=github" alt="Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulneth-la&layout=compact&theme=transparent&hide_border=true&title_color=00E5A0&text_color=9CA3AF" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/Dulneth-La?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b&color=00E5A0" alt="Followers" />
+<img src="https://img.shields.io/github/last-commit/Dulneth-La/Dulneth-La?style=for-the-badge&logo=git&logoColor=white&labelColor=09090b&color=00E5A0" alt="Last commit" />
+<img src="https://img.shields.io/github/stars/Dulneth-La/Dulneth-La?style=for-the-badge&logo=starship&logoColor=white&labelColor=09090b&color=00E5A0" alt="Stars" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulneth-la&bg_color=0d1117&color=00E5A0&line=00E5A0&point=ffffff&area=true&area_color=00E5A0&hide_border=true&radius=10" alt="Activity graph" />
+<a href="https://github.com/Dulneth-La">
+<img src="https://ghchart.rshah.org/00E5A0/Dulneth-La" width="100%" alt="Contribution graph" />
+</a>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -120,6 +135,9 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 
 *Understanding systems. Finding weaknesses. Building better security.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:111827,100:09090b&height=140&section=footer&animation=twinkling" width="100%" alt="" />
+<br/>
+
+<img src="https://img.shields.io/badge/STAY-CURIOUS-00E5A0?style=for-the-badge&labelColor=09090b" alt="Stay curious" />
+<img src="https://img.shields.io/badge/STAY-SECURE-064e3b?style=for-the-badge&labelColor=09090b" alt="Stay secure" />
 
 </div>
