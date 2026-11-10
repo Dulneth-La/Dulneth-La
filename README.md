@@ -111,6 +111,7 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 
 ---
 
+
 ## 📊 `$ github_statistics`
 
 <div align="center">
@@ -118,12 +119,6 @@ Computer Science graduate from **Edith Cowan University**, majoring in **Cyber S
 <img src="https://img.shields.io/github/followers/Dulneth-La?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b&color=00E5A0" alt="Followers" />
 <img src="https://img.shields.io/github/last-commit/Dulneth-La/Dulneth-La?style=for-the-badge&logo=git&logoColor=white&labelColor=09090b&color=00E5A0" alt="Last commit" />
 <img src="https://img.shields.io/github/stars/Dulneth-La/Dulneth-La?style=for-the-badge&logo=starship&logoColor=white&labelColor=09090b&color=00E5A0" alt="Stars" />
-
-<br/><br/>
-
-<a href="https://github.com/Dulneth-La">
-<img src="https://ghchart.rshah.org/00E5A0/Dulneth-La" width="100%" alt="Contribution graph" />
-</a>
 
 </div>
 
